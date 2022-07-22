@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Labex/static/js/main.855539b5.chunk.js",
+    "main.js.map": "/Labex/static/js/main.855539b5.chunk.js.map",
+    "runtime-main.js": "/Labex/static/js/runtime-main.ec00982e.js",
+    "runtime-main.js.map": "/Labex/static/js/runtime-main.ec00982e.js.map",
+    "static/js/2.92572cab.chunk.js": "/Labex/static/js/2.92572cab.chunk.js",
+    "static/js/2.92572cab.chunk.js.map": "/Labex/static/js/2.92572cab.chunk.js.map",
+    "index.html": "/Labex/index.html",
+    "static/js/2.92572cab.chunk.js.LICENSE.txt": "/Labex/static/js/2.92572cab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec00982e.js",
+    "static/js/2.92572cab.chunk.js",
+    "static/js/main.855539b5.chunk.js"
+  ]
+}
